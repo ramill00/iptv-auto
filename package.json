@@ -1,0 +1,13 @@
+{
+  "name": "iptv-scraper",
+  "version": "1.0.0",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "puppeteer": "^21.3.8"
+  }
+}
